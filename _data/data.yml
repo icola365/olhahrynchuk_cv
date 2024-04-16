@@ -83,10 +83,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Complex problem-solver with analytical and solution driven mindset.
-      Dedicated to achieve demanding development objectives
-      according to tight schedules while producing impeccable code.
-      Best team lead ever according to feedback from past coworkers.
+      Complex problem solver with analytical and solution-oriented mindset.
+      Dedicated to meeting challenging development goals
+      on tight schedules while producing flawless code.
+      Best team leader ever, according to feedback from former coworkers.
 
 education:
     title: Education
@@ -102,51 +102,47 @@ experiences:
         time: 2023 - Present
         company: Feeport OÜ, Tallinn
         details: |
-          Took over responsibility to grow development team and customs related product from previous CTO.
-          Feeport's SaaS platform x7trade supports flight carriers bringing ecommerce goods to EU on their customs communication journey. SaaS gives customers ability to notify customs about all goods incoming and make customs clearance to unlock them for last mile delivery.
-          My daily responsibility includes PR reviews for the team, mentorship for developers, communication and tasks prioritizations with board members.
-          Application runs on serverless environment based on Laravel/Vue, Vapor, AWS Lambda, S3, RDS, SQS.
-          So far after I joined, we have made application much faster, able to handle thousands customs messages and millions parcels. UI is build with VueJs where I try to put all my design skills to organize components nicely, improving customers overall UX and product look&feel.
+          Took over the responsibility of growing the development team and customs related product from the previous CTO. Feeport's SaaS platform x7trade supports air carriers bringing e-commerce goods to the EU in their customs communication journey. The SaaS gives customers the ability to notify customs of all incoming goods and clear them for last mile delivery. My daily responsibilities include code reviews for the team, mentoring developers, communicating and prioritizing tasks with board members. The application runs on a serverless environment based on Laravel/Vue, Vapor, AWS Lambda, S3, RDS, SQS. So far, after I joined, we have made the application much faster, able to handle thousands of customs messages and millions of packages. UI is built with VueJs, where I try to use all my design skills to organize components nicely, improve customers overall UX and product look&feel.
 
       - role: Software Engineer Team Lead
         time: 2018 - 2023
         company: Ampler Bikes, Tallinn
         details: |
-          At Ampler Bikes started as a single developer, built
-          strong MVP of company e-commerce website. Later
-          hired a team of few more developers, designer, PMs
-          and tester. My pleasure was to invest time and
-          knowledge to each of them. Together we've built 5
-          software products connected with 20+ APIs to have
-          reliable communication and covering needs of all
-          company departments. For my 5 years at Ampler,
-          I've got a chance to work as:
+          At Ampler Bikes, started as a single developer, built
+          strong MVP of the company's e-commerce site. Later on
+          hired a team of a few more developers, designers, PMs
+          and testers. My pleasure was to invest time and
+          knowledge to each of them. Together we've developed 5
+          software products connected with 20+ APIs in order to have
+          reliable communication and cover the needs of all
+          departments of the company. For my 5 years at Ampler,
+          I have a chance to work as:
 
-          #### Team leader:
-          - Preparation and execution of team hiring plan
-          - Planning and managing team budget
-          - Personal development plans for each team
-          member
-          - Regular 1:1 with team members
+          #### Team Leader:
+          - Prepare and execute team hiring plan
+          - Plan and manage team budget
+          - Personal development plans for each team member
+          Team Member
+          - Regular 1:1s with team members
 
-          #### Tech leader:
+          #### Tech lead:
           - Choosing tools and languages to work with
           - Building knowledge domains and delegating
           responsibilities with team members
-          - Building scalable highly available infrastructure
+          - Build a scalable, highly available infrastructure
 
-          #### Lead Software engineer:
+          #### Lead Software Engineer:
           - Sharing knowledge with team members
-          - Growing engineers from basic level to efficient
-          and confident middles.
-          - Taking care of API integrations with 20+ 3rd parties
-          - Building API interface to communicate with
+          - Growing engineers from beginners to efficient and confident
+          mid-level+ engineers.
+          - Handle API integrations with 20+ 3rd parties
+          - Build API interface to communicate with
           e-commerce website
-          - Building in-house fully company adapted
-          e-commerce system and stock/fleet management system
+          - Building in-house fully customized
+          e-commerce system and inventory/fleet management system
 
-          #### Senior Full Stack engineer:
-          - Building company website
+          #### Sr. Full Stack Engineer:
+          - Build company website
 
       - role: Fullstack Senior Software Engineer
         time: 2017 - 2018
@@ -154,34 +150,33 @@ experiences:
         details: |
           - Became Top Rated talent in just one month.
           - Building WordPress plugins and custom websites
-          for marketing agencies and private customers
+          for marketing agencies and individuals
 
       - role: Software Engineer
         time: 2016 - 2017
         company: SoftServe, Ukraine
         details: |
           - Coordinated with other engineers to evaluate and improve software interfaces.
-          - Building cross platform mobile app.
-          - Worked with software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance.
+          - Developed cross-platform mobile applications.
+          - Collaborated with software development and testing team members to design and develop robust solutions to meet customer requirements for functionality, scalability, and performance.
           - Reviewed project specifications and designed technology solutions that met or exceeded performance expectations.
-          - Hiring and leading team.
-          - Successfully finished 4 major projects for USA customers.
+          - Hired and managed team.
+          - Successfully completed 4 major projects for US clients.
 
       - role: Freelance Web Developer
         time: 2010 - 2016
         company: Self employed, remote
         details: |
-          - Provided security maintenance and patching on website interface to maintain viability after launch.
-          - Implemented Google-based SEO and ad campaigns to meet budget specifications.
-          - Collaborated with marketing, representing web team to establish project goals, projections and milestones.
-          - Oversaw technical issues and troubleshooting requests to resolve user problems.
+          - Provided security maintenance and patches to website interface to maintain viability after launch.
+          - Implemented Google-based SEO and advertising campaigns to meet budget specifications.
+          - Collaborated with marketing and represented the web team to establish project goals, projections, and milestones.
+          - Oversaw technical issues and troubleshooting requests to resolve user issues.
           - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, and JSON coding.
-          - Pulled from PHP, SQL, JavaScript, and other back-end library knowledge to bolster programming resources.
-          - Coded websites using HTML, CSS, JavaScript, and jQuery languages.
-          - Adhered to SEO best practices while designing sites.
-          - Converting mockups to WordPress websites
-          - Worked with customers from USA, Norway, Italy, Japan, Estonia, Germany    
-          - In total delivered 200+ web solutions
+          - Coded websites using PHP, MySQL, HTML, CSS, JavaScript, and jQuery.
+          - Adhered to SEO best practices when designing sites.
+          - Converted mockups into WordPress websites
+          - Worked with clients from USA, Norway, Italy, Japan, Estonia, Germany    
+          - Delivered over 200+ web solutions in total
 
 footer: >
     Andrii Hrynchuk - maybe, your future team lead
