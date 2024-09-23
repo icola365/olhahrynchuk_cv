@@ -7,16 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Andrii Hrynchuk
-    tagline: Head of software engineering
+    name: Olha Hrynchuk
+    tagline: Junior Data Analyst
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: westdss@gmail.com
-    phone: +372 5362 0394
+    email: icola365@gmail.com
+    phone: +372 5362 8833
     timezone: Tallinn/Europe (GMT+3)
-    linkedin: andrii-hrynchuk
-    github: AndreyGrin
+    linkedin: https://www.linkedin.com/in/olia-hrynchuk-481227301
 
     languages:
       title: Languages
@@ -25,158 +24,94 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Intermediate
 
         - idiom: Estonian
-          level: Professional
+          level: Elmentary
+
+        - idiom: Russian
+          level: Advanced  
 
     skills:
       title: Tech profile
       info:
-        - section: Backend  
+        - section: Hard Skills 
           list: |
-            - PHP 8+
-            - Laravel, 1st and 3rd party
-              libraries such as Forge,
-              Nova, Vapor, Octane,
-              Horizon, Scout
-            - mPDF, php excel
-            - REST API
-            - Pest / PHPUnit
-            - MySQL, Postgres
-            - WordPress
-        - section: Frontend
+            - SQL
+            - Python basics
+            - Python's Pandas and visualisation basics
+            - Data Visualisation
+            - Gathering of the Requirements
+            - Elementary of Mathematical Statistic
+        - section: Tools
           list: |
-            - vanilla JS
-            - VueJS, Nuxt
-            - React, Next
-            - Angular
-            - jQuery
-            - TypeScript
-            - NodeJs
-            - HTML/CSS          
-            - Bootstrap
-            - Tailwind
-            - Webpack
-        - section: DevOps
+            - Excel
+            - Looker Studio
+            - Tableau
+            - Metabase
+            - Amplitude
+            - BigQuery
+            - Jupiter Notebook
+            - DBeaver
+            - PostgreSQL
+        - section: Soft Skills
           list: |
-            - MySQL server
-            - Scalable infrastructure
-              based on DigitalOcean
-            - Auto scalable
-              infrastructure based on AWS
-            - Docker
-            - New Relic
-            - AWS: RDS, EC2, Route53, SQS, Lambda, Amplify, S3
-        - section: Tools and technologies
-          list: |
-            - Git
-            - Jira, Linear, Asana
-            - Postman, RapidAPI    
-            - Ray, Flare for debugging and logging
-        - section: Learning
-          list: |
-            - WEB3
-            - Python
-            - GO
+            - Teamwork
+            - Time management
+            - Responsibility
+            - Curiosity
+            - Lifelong Learning
+            - Honesty
+            - Kindness
+            - Commitment
+            - Organised
 
 career-profile:
     title: Career Profile
     summary: |
-      Complex problem solver with analytical and solution-oriented mindset.
-      Dedicated to meeting challenging development goals
-      on tight schedules while producing flawless code.
-      Best team leader ever, according to feedback from former coworkers.
+      After years of being an entrepreneur, handmade artist, and photographer, I have decided to put into action the skills I gained in university and pursue my passion for data analytics. I am looking for a company that values people and their contributions, and I seek a supportive team from whom I can learn while striving to become a skilled and professional data analyst.
 
 education:
     title: Education
     info:
-      - degree: Bachelor of Software Engineering / Information Technology
-        university: Rivne State Humanitarian University
-        time: 2008 - 2012
+      - degree: Data Analysis
+        university: IT School “GoIT”
+        time: 2024
+      - degree: Master's in Economics
+        university: National University of Water and Environmental Engineering
+        time: 2008 - 2013
 
 experiences:
     title: Experiences
     info:
-      - role: Head of software engineering
-        time: 2023 - Present
-        company: Feeport OÜ, Tallinn
+      - role: Intern data analyst
+        time: August - September 2024
+        company: x7trade.eu, Tallinn
         details: |
-          Took over the responsibility of growing the development team and customs related product from the previous CTO. Feeport's SaaS platform x7trade supports air carriers bringing e-commerce goods to the EU in their customs communication journey. The SaaS gives customers the ability to notify customs of all incoming goods and clear them for last mile delivery. My daily responsibilities include code reviews for the team, mentoring developers, communicating and prioritizing tasks with board members. The application runs on a serverless environment based on Laravel/Vue, Vapor, AWS Lambda, S3, RDS, SQS. So far, after I joined, we have made the application much faster, able to handle thousands of customs messages and millions of packages. UI is built with VueJs, where I try to use all my design skills to organize components nicely, improve customers overall UX and product look&feel.
-
-      - role: Software Engineer Team Lead
-        time: 2018 - 2023
-        company: Ampler Bikes, Tallinn
+          - Data collection and analysis
+          - Writing SQL queries to create key metrics
+          - Creating a dashboard with visualizations in Metabase
+          - Writing a report on data visualizations and conclusions for the company's operations
+          - Presenting the dashboard
+          
+          As a data analyst, I exported and analyzed data from the production PostgreSQL database to evaluate KPIs for customs brokers. I also set up Metabase from the ground up and created a dashboard split into four pages.
+          
+          - The first page was dedicated to shipments and parcels, featuring metrics such as the total number of parcels, processed shipment weight, and a graph showing the average shipment weight correlated with the number of parcels.
+          - The second page included metrics related to customs declaration processing times, such as the average time it takes for customs brokers from the moment a shipment arrives until the first declaration is submitted, as well as the average time for customs declarations to be cleared in different countries.
+          - The third page contained a table listing active users for each company and the amount of work they completed.
+          - The fourth page presented a mock-up of a future dashboard to be built by developers in the x7trade app.
+  
+          Each page included a set of filters allowing users to filter data by date, company, and customs country. The visual graphs and metrics helped identify which companies processed the most shipments, which customs were the fastest, and the average time spent processing shipments in the warehouse. The dashboard was built based on live queries from the production database.
+          I also provided documentation for the developers and suggestions for database optimization to the development team.
+      - role: Data analytics projects
+        time: 2024
+        company: GoIT Global
         details: |
-          At Ampler Bikes, started as a single developer, built
-          strong MVP of the company's e-commerce site. Later on
-          hired a team of a few more developers, designers, PMs
-          and testers. My pleasure was to invest time and
-          knowledge to each of them. Together we've developed 5
-          software products connected with 20+ APIs in order to have
-          reliable communication and cover the needs of all
-          departments of the company. For my 5 years at Ampler,
-          I have a chance to work as:
+          #### Cohort analysis, GameDev
+          The project focuses on analyzing player behavior and monitoring important activity metrics. By using basic statistics and analysis, it measures user engagement and retention. It identifies groups of players based on their activity time and tracks metrics related to retention and engagement. The goal of the project is to improve game design, user acquisition, and monetization by using data-driven insights obtained from ongoing analysis in Google Sheets.
 
-          #### Team Leader:
-          - Prepare and execute team hiring plan
-          - Plan and manage team budget
-          - Personal development plans for each team member
-          Team Member
-          - Regular 1:1s with team members
-
-          #### Tech lead:
-          - Choosing tools and languages to work with
-          - Building knowledge domains and delegating
-          responsibilities with team members
-          - Build a scalable, highly available infrastructure
-
-          #### Lead Software Engineer:
-          - Sharing knowledge with team members
-          - Growing engineers from beginners to efficient and confident
-          mid-level+ engineers.
-          - Handle API integrations with 20+ 3rd parties
-          - Build API interface to communicate with
-          e-commerce website
-          - Building in-house fully customized
-          e-commerce system and inventory/fleet management system
-
-          #### Sr. Full Stack Engineer:
-          - Build company website
-
-      - role: Fullstack Senior Software Engineer
-        time: 2017 - 2018
-        company: Upwork, remote
-        details: |
-          - Became Top Rated talent in just one month.
-          - Building WordPress plugins and custom websites
-          for marketing agencies and individuals
-
-      - role: Software Engineer
-        time: 2016 - 2017
-        company: SoftServe, Ukraine
-        details: |
-          - Coordinated with other engineers to evaluate and improve software interfaces.
-          - Developed cross-platform mobile applications.
-          - Collaborated with software development and testing team members to design and develop robust solutions to meet customer requirements for functionality, scalability, and performance.
-          - Reviewed project specifications and designed technology solutions that met or exceeded performance expectations.
-          - Hired and managed team.
-          - Successfully completed 4 major projects for US clients.
-
-      - role: Freelance Web Developer
-        time: 2010 - 2016
-        company: Self employed, remote
-        details: |
-          - Provided security maintenance and patches to website interface to maintain viability after launch.
-          - Implemented Google-based SEO and advertising campaigns to meet budget specifications.
-          - Collaborated with marketing and represented the web team to establish project goals, projections, and milestones.
-          - Oversaw technical issues and troubleshooting requests to resolve user issues.
-          - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX, and JSON coding.
-          - Coded websites using PHP, MySQL, HTML, CSS, JavaScript, and jQuery.
-          - Adhered to SEO best practices when designing sites.
-          - Converted mockups into WordPress websites
-          - Worked with clients from USA, Norway, Italy, Japan, Estonia, Germany    
-          - Delivered over 200+ web solutions in total
+          #### Ads analysis, Retail
+          This project focuses on analyzing advertising campaigns in the retail sector. Using SQL and Google Looker Studio, it extracts and analyzes data to assess the performance and effectiveness of ads. Key metrics include impressions, clicks, conversions, CTR, CPM, and ROAS. Segmentation techniques are used to evaluate different advertising channels, campaign types, and target audience segments. The project emphasizes data accuracy, optimization, and creating visual reports to guide marketing strategies and improve ad performance in the retail sector.
 
 footer: >
-    Andrii Hrynchuk - maybe, your future team lead
+    Olha Hrynchuk - maybe your's future passionated data analyst

@@ -14,4 +14,4 @@ Changes *_data/data.yml* will be visible after a while.
 
 ## Credits
 
-Build on [Fork](https://github.com/sharu725/online-cv;
+Build on [Fork](https://github.com/sharu725/online-cv);
